@@ -19,7 +19,7 @@
     <b>Language:</b> English/American Sign Language
   </li>
   <li>
-    <b>Interests:</b> You~, Art, Math, Physics, and Subsystem development
+    <b>Interests:</b> You~, Art, Math, Physics, and Embedded System development
   </li>
   <li>
     <b>Loves:</b> Anime/Breathing
@@ -31,7 +31,7 @@
     <b>Occupation:</b> Software Designer
   </li>
   <li>
-    <b>Editors:</b> Visual Studio Code/Visual Studio/Android Studio
+    <b>Editors:</b> Visual Studio Code/Visual Studio/Android Studio/Arduino IDE
   </li>
 </p>
 
@@ -41,7 +41,7 @@
   ❤Reverse Engineering <b>Windows Applications</b> using <b>IDA & GHIDRA</b>.
 </li>
 <li>
-  ✨<b>FRC</b>.
+  ✨<b>FRC</b>. ❤ team 4610 ❤
 </li>
 <li>
   ✨<b>x86 & MIPS</b> Assembly.
