@@ -10,10 +10,7 @@
     <b>Gender:</b> Male
   </li>
   <li>
-    <b>Education:</b> High School
-  </li>
-  <li>
-    <b>Grade:</b> 12
+    <b>Education:</b> High School Graduate 
   </li>
   <li>
     <b>Language:</b> English/American Sign Language
@@ -31,7 +28,7 @@
     <b>Occupation:</b> Software Designer
   </li>
   <li>
-    <b>Editors:</b> Visual Studio Code/Visual Studio/Android Studio/Arduino IDE
+    <b>Editors:</b> Nvim(Astrovim)/Visual Studio Code/Visual Studio/Android Studio/Arduino IDE
   </li>
 </p>
 
@@ -39,9 +36,6 @@
 <p align="left">
 <li>
   ❤Reverse Engineering <b>Windows Applications</b> using <b>IDA & GHIDRA</b>.
-</li>
-<li>
-  ✨<b>FRC</b>. ❤ team 4610 ❤
 </li>
 <li>
   ✨<b>x86 & MIPS</b> Assembly.
@@ -53,7 +47,10 @@
   ✨<b>Windows 10</b> Exploits.
 </li>
 </p>
-
+<h2 align="center">🤝Previously worked on🤝</h2>
+<li>
+  ✨<b>FRC</b>. ❤ team 4610 for Rapid React 2022❤ 
+</li>
 <h2 align="center">❤ Languages & Tools ❤</h2>
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intel.svg" alt="x86 Assembly" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
