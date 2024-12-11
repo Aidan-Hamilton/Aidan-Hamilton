@@ -10,7 +10,7 @@
     <b>Gender:</b> Male
   </li>
   <li>
-    <b>Education:</b> High School Graduate 
+    <b>Education:</b> College Undergraduate
   </li>
   <li>
     <b>Language:</b> English/American Sign Language
@@ -23,9 +23,6 @@
   </li>
   <li>
     <b>Fun Fact:</b> Pneumonoultramicroscopicsilicovolcanoconiosis is the longest word in the English language
-  </li>
-  <li>
-    <b>Occupation:</b> Software Designer
   </li>
   <li>
     <b>Editors:</b> Nvim(Astrovim)/Visual Studio Code/Visual Studio/Android Studio/Arduino IDE
